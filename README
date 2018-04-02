@@ -1,0 +1,6 @@
+*This bash check if  are down websites, change array in file to check more sites add number [2]...*
+
+Prepared for Synology NAS to notificate when one site is down, for that mark task option in taks manager send mail when error ocurred
+
+Usage: monitor.sh
+
